@@ -67,3 +67,4 @@ This project proposes a web-based **Smart Traffic Congestion and Routing System*
 - AI-based traffic congestion prediction  
 - Android mobile application version  
 - Integration with real-time traffic data  
+ 
